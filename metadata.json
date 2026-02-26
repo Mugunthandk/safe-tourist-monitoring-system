@@ -1,0 +1,7 @@
+{
+  "name": "SafeGuard Tourist Monitoring System",
+  "description": "Real-time tourist safety monitoring platform with AI anomaly detection, geo-fencing, and SOS emergency response.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
